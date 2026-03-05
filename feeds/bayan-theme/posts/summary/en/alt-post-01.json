@@ -43,17 +43,17 @@
       {
         "rel": "http:\/\/schemas.google.com\/g\/2005#feed",
         "type": "application\/atom+xml",
-        "href": "https:\/\/portospot-demo.blogspot.com\/feeds\/posts\/summary"
+        "href": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/feeds\/bayan-theme\/posts\/summary"
       },
       {
         "rel": "self",
         "type": "application\/atom+xml",
-        "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/summary?alt=json&max-results=6"
+        "href": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/feeds\/bayan-theme\/posts\/summary\/en\/alt-post-01.json"
       },
       {
         "rel": "alternate",
         "type": "text\/html",
-        "href": "https:\/\/portospot-demo.blogspot.com\/"
+        "href": "https:\/\/mdelmeddah.blogspot.com\/"
       },
       {
         "rel": "hub",
@@ -62,7 +62,7 @@
       {
         "rel": "next",
         "type": "application\/atom+xml",
-        "href": "feeds\/posts\/summary\/en\/alt-post-02.json"
+        "href": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/feeds\/bayan-theme\/posts\/summary\/en\/alt-post-01.json"
       }
     ],
     "author": [
@@ -80,7 +80,7 @@
           "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
           "width": "32",
           "height": "32",
-          "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg42XgzzXsrMKqg011i-a_QLOO7QLGCK4X6HvqK3vdlinfZSaopqda0zT3si3ZJ2CYDMcgCrExNdUgakL29tvbrVgr4dkQ3VY8pF7_sTsujeVAjr21dR4fsEYvQcXe8OXVFLXIOUlesa5IQTgaFbPvvL4p6VYYEIYXFqexTeFXgSI5wrfg\/s220\/channels4_profile.jpg"
+          "src": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/authors\/author-mdelmeddah.jpg"
         }
       }
     ],
@@ -137,23 +137,23 @@
           {
             "rel": "replies",
             "type": "text\/html",
-            "href": "http:\/\/localhost:3000\/post.html?post-01#comment-form",
+            "href": "\/post.html?post-01#comment-form",
             "title": "45 comments"
           },
           {
             "rel": "edit",
             "type": "application\/atom+xml",
-            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/6306597389908333626"
+            "href": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/feeds\/bayan-theme\/posts\/summary/en"
           },
           {
             "rel": "self",
             "type": "application\/atom+xml",
-            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/6306597389908333626"
+            "href": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/feeds\/bayan-theme\/posts\/summary/en"
           },
           {
             "rel": "alternate",
             "type": "text\/html",
-            "href": "http:\/\/localhost:3000\/post.html?post-01",
+            "href": "\/post.html?post-01",
             "title": "This is the first title, a placeholder title used to fill space in the design without distracting the reader."
           }
         ],
@@ -172,13 +172,13 @@
               "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
               "width": "32",
               "height": "32",
-              "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg42XgzzXsrMKqg011i-a_QLOO7QLGCK4X6HvqK3vdlinfZSaopqda0zT3si3ZJ2CYDMcgCrExNdUgakL29tvbrVgr4dkQ3VY8pF7_sTsujeVAjr21dR4fsEYvQcXe8OXVFLXIOUlesa5IQTgaFbPvvL4p6VYYEIYXFqexTeFXgSI5wrfg\/s220\/channels4_profile.jpg"
+              "src": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/authors\/author-mdelmeddah.jpg"
             }
           }
         ],
         "media$thumbnail": {
           "xmlns$media": "http:\/\/search.yahoo.com\/mrss\/",
-          "url": "http:\/\/localhost:3000\/images\/blog-post-01.jpg",
+          "url": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/posts\/blog-post-01.jpg",
           "height": "72",
           "width": "72"
         },
@@ -224,7 +224,7 @@
           {
             "rel": "replies",
             "type": "text\/html",
-            "href": "http:\/\/localhost:3000\/post.html?post-02#comment-form",
+            "href": "\/post.html?post-02#comment-form",
             "title": "12 comments"
           },
           {
@@ -240,7 +240,7 @@
           {
             "rel": "alternate",
             "type": "text\/html",
-            "href": "http:\/\/localhost:3000\/post.html?post-02",
+            "href": "\/post.html?post-02",
             "title": "This is the second title, a placeholder title used to fill space in the design without distracting the reader."
           }
         ],
@@ -259,13 +259,13 @@
               "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
               "width": "32",
               "height": "32",
-              "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg42XgzzXsrMKqg011i-a_QLOO7QLGCK4X6HvqK3vdlinfZSaopqda0zT3si3ZJ2CYDMcgCrExNdUgakL29tvbrVgr4dkQ3VY8pF7_sTsujeVAjr21dR4fsEYvQcXe8OXVFLXIOUlesa5IQTgaFbPvvL4p6VYYEIYXFqexTeFXgSI5wrfg\/s220\/channels4_profile.jpg"
+              "src": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/authors\/author-mdelmeddah.jpg"
             }
           }
         ],
         "media$thumbnail": {
           "xmlns$media": "http:\/\/search.yahoo.com\/mrss\/",
-          "url": "http:\/\/localhost:3000\/images\/blog-post-02.jpg",
+          "url": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/posts\/blog-post-02.jpg",
           "height": "72",
           "width": "72"
         },
@@ -311,7 +311,7 @@
           {
             "rel": "replies",
             "type": "text\/html",
-            "href": "http:\/\/localhost:3000\/post.html?post-03#comment-form",
+            "href": "\/post.html?post-03#comment-form",
             "title": "5 comments"
           },
           {
@@ -327,7 +327,7 @@
           {
             "rel": "alternate",
             "type": "text\/html",
-            "href": "http:\/\/localhost:3000\/post.html?post-03",
+            "href": "\/post.html?post-03",
             "title": "This is the third title, a placeholder title used to fill space in the design without distracting the reader."
           }
         ],
@@ -346,13 +346,13 @@
               "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
               "width": "32",
               "height": "32",
-              "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg42XgzzXsrMKqg011i-a_QLOO7QLGCK4X6HvqK3vdlinfZSaopqda0zT3si3ZJ2CYDMcgCrExNdUgakL29tvbrVgr4dkQ3VY8pF7_sTsujeVAjr21dR4fsEYvQcXe8OXVFLXIOUlesa5IQTgaFbPvvL4p6VYYEIYXFqexTeFXgSI5wrfg\/s220\/channels4_profile.jpg"
+              "src": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/authors\/author-mdelmeddah.jpg"
             }
           }
         ],
         "media$thumbnail": {
           "xmlns$media": "http:\/\/search.yahoo.com\/mrss\/",
-          "url": "http:\/\/localhost:3000\/images\/blog-post-03.jpg",
+          "url": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/posts\/blog-post-03.jpg",
           "height": "72",
           "width": "72"
         },
@@ -398,7 +398,7 @@
           {
             "rel": "replies",
             "type": "text\/html",
-            "href": "http:\/\/localhost:3000\/post.html?post-04#comment-form",
+            "href": "\/post.html?post-04#comment-form",
             "title": "10 comments"
           },
           {
@@ -414,7 +414,7 @@
           {
             "rel": "alternate",
             "type": "text\/html",
-            "href": "http:\/\/localhost:3000\/post.html?post-04",
+            "href": "\/post.html?post-04",
             "title": "This is the fourth title, a placeholder title used to fill space in the design without distracting the reader."
           }
         ],
@@ -433,13 +433,13 @@
               "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
               "width": "32",
               "height": "32",
-              "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg42XgzzXsrMKqg011i-a_QLOO7QLGCK4X6HvqK3vdlinfZSaopqda0zT3si3ZJ2CYDMcgCrExNdUgakL29tvbrVgr4dkQ3VY8pF7_sTsujeVAjr21dR4fsEYvQcXe8OXVFLXIOUlesa5IQTgaFbPvvL4p6VYYEIYXFqexTeFXgSI5wrfg\/s220\/channels4_profile.jpg"
+              "src": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/authors\/author-mdelmeddah.jpg"
             }
           }
         ],
         "media$thumbnail": {
           "xmlns$media": "http:\/\/search.yahoo.com\/mrss\/",
-          "url": "http:\/\/localhost:3000\/images\/blog-post-04.jpg",
+          "url": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/posts\/blog-post-04.jpg",
           "height": "72",
           "width": "72"
         },
@@ -485,7 +485,7 @@
           {
             "rel": "replies",
             "type": "text\/html",
-            "href": "http:\/\/localhost:3000\/post.html?post-05#comment-form",
+            "href": "\/post.html?post-05#comment-form",
             "title": "18 comments"
           },
           {
@@ -501,7 +501,7 @@
           {
             "rel": "alternate",
             "type": "text\/html",
-            "href": "http:\/\/localhost:3000\/post.html?post-05",
+            "href": "\/post.html?post-05",
             "title": "This is the fifth title, a placeholder title used to fill space in the design without distracting the reader."
           }
         ],
@@ -520,13 +520,13 @@
               "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
               "width": "32",
               "height": "32",
-              "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg42XgzzXsrMKqg011i-a_QLOO7QLGCK4X6HvqK3vdlinfZSaopqda0zT3si3ZJ2CYDMcgCrExNdUgakL29tvbrVgr4dkQ3VY8pF7_sTsujeVAjr21dR4fsEYvQcXe8OXVFLXIOUlesa5IQTgaFbPvvL4p6VYYEIYXFqexTeFXgSI5wrfg\/s220\/channels4_profile.jpg"
+              "src": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/authors\/author-mdelmeddah.jpg"
             }
           }
         ],
         "media$thumbnail": {
           "xmlns$media": "http:\/\/search.yahoo.com\/mrss\/",
-          "url": "http:\/\/localhost:3000\/images\/blog-post-05.jpg",
+          "url": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/posts\/blog-post-05.jpg",
           "height": "72",
           "width": "72"
         },
@@ -572,7 +572,7 @@
           {
             "rel": "replies",
             "type": "text\/html",
-            "href": "http:\/\/localhost:3000\/post.html?post-06#comment-form",
+            "href": "\/post.html?post-06#comment-form",
             "title": "15 Comments"
           },
           {
@@ -588,7 +588,7 @@
           {
             "rel": "alternate",
             "type": "text\/html",
-            "href": "http:\/\/localhost:3000\/post.html?post-06",
+            "href": "\/post.html?post-06",
             "title": "This is the sixth title, a placeholder title used to fill space in the design without distracting the reader."
           }
         ],
@@ -607,13 +607,13 @@
               "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
               "width": "32",
               "height": "32",
-              "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg42XgzzXsrMKqg011i-a_QLOO7QLGCK4X6HvqK3vdlinfZSaopqda0zT3si3ZJ2CYDMcgCrExNdUgakL29tvbrVgr4dkQ3VY8pF7_sTsujeVAjr21dR4fsEYvQcXe8OXVFLXIOUlesa5IQTgaFbPvvL4p6VYYEIYXFqexTeFXgSI5wrfg\/s220\/channels4_profile.jpg"
+              "src": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/authors\/author-mdelmeddah.jpg"
             }
           }
         ],
         "media$thumbnail": {
           "xmlns$media": "http:\/\/search.yahoo.com\/mrss\/",
-          "url": "http:\/\/localhost:3000\/images\/blog-post-06.jpg",
+          "url": "https:\/\/cdn.jsdelivr.net\/gh\/mdelmeddah\/assets\/images\/posts\/blog-post-06.jpg",
           "height": "72",
           "width": "72"
         },
@@ -624,3 +624,4 @@
     ]
   }
 }
+
