@@ -24,15 +24,8 @@ Benefits of this approach:
 
 Files in this repository can be accessed using jsDelivr CDN.
 
-CDN format:
-
-https://cdn.jsdelivr.net/gh/USERNAME/REPOSITORY/PATH/FILE
-
-Example:
-
-https://cdn.jsdelivr.net/gh/USERNAME/REPOSITORY/images/logo.png
-
-Replace `USERNAME` and `REPOSITORY` with your GitHub username and repository name.
+CDN url:  
+  `https://cdn.jsdelivr.net/gh/mdelmeddah/assets/ [......]`
 
 ---
 
