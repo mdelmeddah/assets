@@ -1,0 +1,626 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http:\/\/www.w3.org\/2005\/Atom",
+    "xmlns$openSearch": "http:\/\/a9.com\/-\/spec\/opensearchrss\/1.0\/",
+    "xmlns$blogger": "http:\/\/schemas.google.com\/blogger\/2008",
+    "xmlns$georss": "http:\/\/www.georss.org\/georss",
+    "xmlns$gd": "http:\/\/schemas.google.com\/g\/2005",
+    "xmlns$thr": "http:\/\/purl.org\/syndication\/thread\/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-7181794953220341673"
+    },
+    "updated": {
+      "$t": "2025-12-31T15:30:00.000+04:00"
+    },
+    "category": [
+      {
+        "term": "News"
+      },
+      {
+        "term": "Designs"
+      },
+      {
+        "term": "Articles"
+      },
+      {
+        "term": "Websites"
+      },
+      {
+        "term": "Technology"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Shaheen Template"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "A modern Blogger template combining elegance, performance, and a smooth reading experience"
+    },
+    "link": [
+      {
+        "rel": "http:\/\/schemas.google.com\/g\/2005#feed",
+        "type": "application\/atom+xml",
+        "href": "https:\/\/portospot-demo.blogspot.com\/feeds\/posts\/summary"
+      },
+      {
+        "rel": "self",
+        "type": "application\/atom+xml",
+        "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/summary?alt=json&max-results=6"
+      },
+      {
+        "rel": "alternate",
+        "type": "text\/html",
+        "href": "https:\/\/portospot-demo.blogspot.com\/"
+      },
+      {
+        "rel": "hub",
+        "href": "http:\/\/pubsubhubbub.appspot.com\/"
+      },
+      {
+        "rel": "next",
+        "type": "application\/atom+xml",
+        "href": "feeds\/posts\/summary\/en\/alt-post-04.json"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Mohamed El Meddah"
+        },
+        "uri": {
+          "$t": "http:\/\/www.blogger.com\/profile\/07823192227268673339"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg42XgzzXsrMKqg011i-a_QLOO7QLGCK4X6HvqK3vdlinfZSaopqda0zT3si3ZJ2CYDMcgCrExNdUgakL29tvbrVgr4dkQ3VY8pF7_sTsujeVAjr21dR4fsEYvQcXe8OXVFLXIOUlesa5IQTgaFbPvvL4p6VYYEIYXFqexTeFXgSI5wrfg\/s220\/channels4_profile.jpg"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http:\/\/www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "24"
+    },
+    "openSearch$startIndex": {
+      "$t": "13"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "6"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7181794953220341673.post-9482716350928471635"
+        },
+        "published": {
+          "$t": "2019-01-11T15:30:00.000+04:00"
+        },
+        "updated": {
+          "$t": "2019-01-11T15:30:00.000+04:00"
+        },
+        "category": [
+          {
+            "scheme": "http:\/\/www.blogger.com\/atom\/ns#",
+            "term": "Technology"
+          },
+          {
+            "scheme": "http:\/\/www.blogger.com\/atom\/ns#",
+            "term": "Designs"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "This is the thirteenth title, a placeholder title used to fill space in the design without distracting the reader."
+        },
+        "summary": {
+          "type": "text",
+          "$t": "This summary for the thirteenth post offers a clear explanation of complex ideas, breaking them down into manageable parts. It aims to make the content accessible to readers with varying levels of prior knowledge, enhancing comprehension and engagement."
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/portospot-demo.blogspot.com\/feeds\/9482716350928471635\/comments\/default",
+            "title": "Message comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text\/html",
+            "href": "http:\/\/localhost:3000\/post.html?post-13#comment-form",
+            "title": "28 comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/9482716350928471635"
+          },
+          {
+            "rel": "self",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/9482716350928471635"
+          },
+          {
+            "rel": "alternate",
+            "type": "text\/html",
+            "href": "http:\/\/localhost:3000\/post.html?post-13",
+            "title": "This is the thirteenth title, a placeholder title used to fill space in the design without distracting the reader."
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Amira Qassem"
+            },
+            "uri": {
+              "$t": "http:\/\/www.blogger.com\/profile\/07823192227268673339"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhKDMpfuiexfFgYodBAlTDjY0QiUEOJh6EWvOdAMHjdaPfgumtG9OqavD1rQN6xNdM2u508FRWgMtmfWn2KM0ZTkY7wN-KD5cftHMPuXbpA8dX3-9vQCDeRuVPQFgc02Q\/s1600\/988424_717358164982599_3923201940559590480_n.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http:\/\/search.yahoo.com\/mrss\/",
+          "url": "http:\/\/localhost:3000\/images\/blog-post-13.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "28"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7181794953220341673.post-7128493019284730192"
+        },
+        "published": {
+          "$t": "2019-03-13T15:30:00.000+04:00"
+        },
+        "updated": {
+          "$t": "2019-03-13T15:30:00.000+04:00"
+        },
+        "category": [
+          {
+            "scheme": "http:\/\/www.blogger.com\/atom\/ns#",
+            "term": "News"
+          },
+          {
+            "scheme": "http:\/\/www.blogger.com\/atom\/ns#",
+            "term": "Designs"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "This is the fourteenth title, a placeholder title used to fill space in the design without distracting the reader."
+        },
+        "summary": {
+          "type": "text",
+          "$t": "This summary for the fourteenth post offers a clear explanation of complex ideas, breaking them down into manageable parts. It aims to make the content accessible to readers with varying levels of prior knowledge, enhancing comprehension and engagement."
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/portospot-demo.blogspot.com\/feeds\/7128493019284730192\/comments\/default",
+            "title": "Message comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text\/html",
+            "href": "http:\/\/localhost:3000\/post.html?post-14#comment-form",
+            "title": "23 comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/7128493019284730192"
+          },
+          {
+            "rel": "self",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/7128493019284730192"
+          },
+          {
+            "rel": "alternate",
+            "type": "text\/html",
+            "href": "http:\/\/localhost:3000\/post.html?post-14",
+            "title": "This is the fourteenth title, a placeholder title used to fill space in the design without distracting the reader."
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Amira Qassem"
+            },
+            "uri": {
+              "$t": "http:\/\/www.blogger.com\/profile\/07823192227268673339"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhKDMpfuiexfFgYodBAlTDjY0QiUEOJh6EWvOdAMHjdaPfgumtG9OqavD1rQN6xNdM2u508FRWgMtmfWn2KM0ZTkY7wN-KD5cftHMPuXbpA8dX3-9vQCDeRuVPQFgc02Q\/s1600\/988424_717358164982599_3923201940559590480_n.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http:\/\/search.yahoo.com\/mrss\/",
+          "url": "http:\/\/localhost:3000\/images\/blog-post-14.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "23"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7181794953220341673.post-5692837461928374619"
+        },
+        "published": {
+          "$t": "2019-05-20T15:30:00.000+04:00"
+        },
+        "updated": {
+          "$t": "2019-05-20T15:30:00.000+04:00"
+        },
+        "category": [
+          {
+            "scheme": "http:\/\/www.blogger.com\/atom\/ns#",
+            "term": "Articles"
+          },
+          {
+            "scheme": "http:\/\/www.blogger.com\/atom\/ns#",
+            "term": "Websites"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "This is the fifteenth title, a placeholder title used to fill space in the design without distracting the reader."
+        },
+        "summary": {
+          "type": "text",
+          "$t": "This summary for the fifteenth post offers a clear explanation of complex ideas, breaking them down into manageable parts. It aims to make the content accessible to readers with varying levels of prior knowledge, enhancing comprehension and engagement."
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/portospot-demo.blogspot.com\/feeds\/5692837461928374619\/comments\/default",
+            "title": "Message comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text\/html",
+            "href": "http:\/\/localhost:3000\/post.html?post-15#comment-form",
+            "title": "0 comment"
+          },
+          {
+            "rel": "edit",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/5692837461928374619"
+          },
+          {
+            "rel": "self",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/5692837461928374619"
+          },
+          {
+            "rel": "alternate",
+            "type": "text\/html",
+            "href": "http:\/\/localhost:3000\/post.html?post-15",
+            "title": "This is the fifteenth title, a placeholder title used to fill space in the design without distracting the reader."
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Amira Qassem"
+            },
+            "uri": {
+              "$t": "http:\/\/www.blogger.com\/profile\/07823192227268673339"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhKDMpfuiexfFgYodBAlTDjY0QiUEOJh6EWvOdAMHjdaPfgumtG9OqavD1rQN6xNdM2u508FRWgMtmfWn2KM0ZTkY7wN-KD5cftHMPuXbpA8dX3-9vQCDeRuVPQFgc02Q\/s1600\/988424_717358164982599_3923201940559590480_n.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http:\/\/search.yahoo.com\/mrss\/",
+          "url": "http:\/\/localhost:3000\/images\/blog-post-15.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7181794953220341673.post-3829104756283948572"
+        },
+        "published": {
+          "$t": "2019-07-17T15:30:00.000+04:00"
+        },
+        "updated": {
+          "$t": "2019-07-17T15:30:00.000+04:00"
+        },
+        "category": [
+          {
+            "scheme": "http:\/\/www.blogger.com\/atom\/ns#",
+            "term": "Websites"
+          },
+          {
+            "scheme": "http:\/\/www.blogger.com\/atom\/ns#",
+            "term": "News"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "This is the sixteenth title, a placeholder title used to fill space in the design without distracting the reader."
+        },
+        "summary": {
+          "type": "text",
+          "$t": "This summary for the sixteenth post offers a clear explanation of complex ideas, breaking them down into manageable parts. It aims to make the content accessible to readers with varying levels of prior knowledge, enhancing comprehension and engagement."
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/portospot-demo.blogspot.com\/feeds\/3829104756283948572\/comments\/default",
+            "title": "Message comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text\/html",
+            "href": "http:\/\/localhost:3000\/post.html?post-16#comment-form",
+            "title": "0 comment"
+          },
+          {
+            "rel": "edit",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/3829104756283948572"
+          },
+          {
+            "rel": "self",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/3829104756283948572"
+          },
+          {
+            "rel": "alternate",
+            "type": "text\/html",
+            "href": "http:\/\/localhost:3000\/post.html?post-16",
+            "title": "This is the sixteenth title, a placeholder title used to fill space in the design without distracting the reader."
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Amira Qassem"
+            },
+            "uri": {
+              "$t": "http:\/\/www.blogger.com\/profile\/07823192227268673339"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhKDMpfuiexfFgYodBAlTDjY0QiUEOJh6EWvOdAMHjdaPfgumtG9OqavD1rQN6xNdM2u508FRWgMtmfWn2KM0ZTkY7wN-KD5cftHMPuXbpA8dX3-9vQCDeRuVPQFgc02Q\/s1600\/988424_717358164982599_3923201940559590480_n.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http:\/\/search.yahoo.com\/mrss\/",
+          "url": "http:\/\/localhost:3000\/images\/blog-post-16.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7181794953220341673.post-4739201827364958372"
+        },
+        "published": {
+          "$t": "2019-09-23T15:30:00.000+04:00"
+        },
+        "updated": {
+          "$t": "2019-09-23T15:30:00.000+04:00"
+        },
+        "category": [
+          {
+            "scheme": "http:\/\/www.blogger.com\/atom\/ns#",
+            "term": "Websites"
+          },
+          {
+            "scheme": "http:\/\/www.blogger.com\/atom\/ns#",
+            "term": "Technology"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "This is the seventeenth title, a placeholder title used to fill space in the design without distracting the reader."
+        },
+        "summary": {
+          "type": "text",
+          "$t": "This summary for the seventeenth post offers a clear explanation of complex ideas, breaking them down into manageable parts. It aims to make the content accessible to readers with varying levels of prior knowledge, enhancing comprehension and engagement."
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/portospot-demo.blogspot.com\/feeds\/4739201827364958372\/comments\/default",
+            "title": "Message comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text\/html",
+            "href": "http:\/\/localhost:3000\/post.html?post-17#comment-form",
+            "title": "16 comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/4739201827364958372"
+          },
+          {
+            "rel": "self",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/4739201827364958372"
+          },
+          {
+            "rel": "alternate",
+            "type": "text\/html",
+            "href": "http:\/\/localhost:3000\/post.html?post-17",
+            "title": "This is the seventeenth title, a placeholder title used to fill space in the design without distracting the reader."
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Amira Qassem"
+            },
+            "uri": {
+              "$t": "http:\/\/www.blogger.com\/profile\/07823192227268673339"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhKDMpfuiexfFgYodBAlTDjY0QiUEOJh6EWvOdAMHjdaPfgumtG9OqavD1rQN6xNdM2u508FRWgMtmfWn2KM0ZTkY7wN-KD5cftHMPuXbpA8dX3-9vQCDeRuVPQFgc02Q\/s1600\/988424_717358164982599_3923201940559590480_n.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http:\/\/search.yahoo.com\/mrss\/",
+          "url": "http:\/\/localhost:3000\/images\/blog-post-17.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "16"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7181794953220341673.post-5827364918273645918"
+        },
+        "published": {
+          "$t": "2019-11-20T15:30:00.000+04:00"
+        },
+        "updated": {
+          "$t": "2019-11-20T15:30:00.000+04:00"
+        },
+        "category": [
+          {
+            "scheme": "http:\/\/www.blogger.com\/atom\/ns#",
+            "term": "Articles"
+          },
+          {
+            "scheme": "http:\/\/www.blogger.com\/atom\/ns#",
+            "term": "Technology"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "This is the eighteenth title, a placeholder title used to fill space in the design without distracting the reader."
+        },
+        "summary": {
+          "type": "text",
+          "$t": "This summary for the eighteenth post offers a clear explanation of complex ideas, breaking them down into manageable parts. It aims to make the content accessible to readers with varying levels of prior knowledge, enhancing comprehension and engagement."
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/portospot-demo.blogspot.com\/feeds\/5827364918273645918\/comments\/default",
+            "title": "Message comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text\/html",
+            "href": "http:\/\/localhost:3000\/post.html?post-18#comment-form",
+            "title": "2 comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/5827364918273645918"
+          },
+          {
+            "rel": "self",
+            "type": "application\/atom+xml",
+            "href": "https:\/\/www.blogger.com\/feeds\/7181794953220341673\/posts\/default\/5827364918273645918"
+          },
+          {
+            "rel": "alternate",
+            "type": "text\/html",
+            "href": "http:\/\/localhost:3000\/post.html?post-18",
+            "title": "This is the eighteenth title, a placeholder title used to fill space in the design without distracting the reader."
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Amira Qassem"
+            },
+            "uri": {
+              "$t": "http:\/\/www.blogger.com\/profile\/07823192227268673339"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http:\/\/schemas.google.com\/g\/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "http:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhKDMpfuiexfFgYodBAlTDjY0QiUEOJh6EWvOdAMHjdaPfgumtG9OqavD1rQN6xNdM2u508FRWgMtmfWn2KM0ZTkY7wN-KD5cftHMPuXbpA8dX3-9vQCDeRuVPQFgc02Q\/s1600\/988424_717358164982599_3923201940559590480_n.jpg"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http:\/\/search.yahoo.com\/mrss\/",
+          "url": "http:\/\/localhost:3000\/images\/blog-post-18.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "2"
+        }
+      }
+    ]
+  }
+}
