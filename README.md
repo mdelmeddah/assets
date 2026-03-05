@@ -1,2 +1,7 @@
-# assets
-A collection of reusable web assets (images, icons, logos, and UI resources) used across my projects. Optimized for CDN usage via jsDelivr.
+# Web Assets
+
+A collection of reusable assets used across my web projects.
+
+This repository contains images, icons, logos, and other static resources that can be accessed directly via CDN.
+
+## 📁 Structure
